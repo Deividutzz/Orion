@@ -1,0 +1,76 @@
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\EncryptPage.baml
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\LoginPage.baml
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\App.g.cs
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\EncryptPage.g.cs
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\LoginPage.g.cs
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\MainWindow.g.cs
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion_MarkupCompile.cache
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion_MarkupCompile.lref
+D:\Programming\C# Projs\Orion\Orion\bin\Debug\net9.0-windows\Orion.exe
+D:\Programming\C# Projs\Orion\Orion\bin\Debug\net9.0-windows\Orion.deps.json
+D:\Programming\C# Projs\Orion\Orion\bin\Debug\net9.0-windows\Orion.runtimeconfig.json
+D:\Programming\C# Projs\Orion\Orion\bin\Debug\net9.0-windows\Orion.dll
+D:\Programming\C# Projs\Orion\Orion\bin\Debug\net9.0-windows\Orion.pdb
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\MainWindow.baml
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.g.resources
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.AssemblyInfoInputs.cache
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.AssemblyInfo.cs
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.dll
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\refint\Orion.dll
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.pdb
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\Orion.genruntimeconfig.cache
+D:\Programming\C# Projs\Orion\Orion\obj\Debug\net9.0-windows\ref\Orion.dll
+E:\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.exe
+E:\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.deps.json
+E:\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.runtimeconfig.json
+E:\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.dll
+E:\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.pdb
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\EncryptPage.baml
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\LoginPage.baml
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\EncryptPage.g.cs
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\LoginPage.g.cs
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\MainWindow.g.cs
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\App.g.cs
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion_MarkupCompile.cache
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion_MarkupCompile.lref
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\MainWindow.baml
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.g.resources
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.AssemblyInfoInputs.cache
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.AssemblyInfo.cs
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.csproj.CoreCompileInputs.cache
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.dll
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\refint\Orion.dll
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.pdb
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.genruntimeconfig.cache
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\ref\Orion.dll
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\SettingsPage.baml
+E:\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\SettingsPage.g.cs
+D:\Programming\C# Projs\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.exe
+D:\Programming\C# Projs\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.deps.json
+D:\Programming\C# Projs\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.runtimeconfig.json
+D:\Programming\C# Projs\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.dll
+D:\Programming\C# Projs\Orion\Orion\Orion\bin\Debug\net9.0-windows\Orion.pdb
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\EncryptPage.baml
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\LoginPage.baml
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\SettingsPage.baml
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\EncryptPage.g.cs
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\LoginPage.g.cs
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\MainWindow.g.cs
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\SettingsPage.g.cs
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\App.g.cs
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion_MarkupCompile.cache
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion_MarkupCompile.lref
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\src\resources\ui\xaml\MainWindow.baml
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.g.resources
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.AssemblyInfoInputs.cache
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.AssemblyInfo.cs
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.dll
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\refint\Orion.dll
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.pdb
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\Orion.genruntimeconfig.cache
+D:\Programming\C# Projs\Orion\Orion\Orion\obj\Debug\net9.0-windows\ref\Orion.dll

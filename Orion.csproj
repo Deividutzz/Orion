@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Page Remove="src\resources\ui\xaml\App.xaml" />
+        <ApplicationDefinition Include="src\resources\ui\xaml\App.xaml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="src\resources\assets\images\LoginBG.jpg" />
+      <Resource Include="src\resources\assets\images\LoginBG.jpg" />
+      <None Remove="src\resources\assets\images\SettingsIcon.png" />
+      <Resource Include="src\resources\assets\images\SettingsIcon.png" />
+      <None Remove="src\resources\assets\images\OrionImage.png" />
+      <Resource Include="src\resources\assets\images\OrionImage.png" />
+    </ItemGroup>
+
+</Project>

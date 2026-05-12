@@ -1,0 +1,90 @@
+<Page x:Class="Orion.main.app.gui.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <Page.Resources>
+        
+        <Style x:Key="TitleText" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="28"/>
+            <Setter Property="FontFamily" Value="Orbitron"/>
+            <Setter Property="Foreground" Value="#7FFFD4"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="Margin" Value="0,0,0,20"/>
+        </Style>
+
+        <Style x:Key="LoginTextBox" TargetType="PasswordBox">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="FontFamily" Value="Orbitron"/>
+            <Setter Property="Background" Value="#22000000"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#7FFFD4"/>
+            <Setter Property="CaretBrush" Value="#7FFFD4"/>
+        </Style>
+
+        <Style x:Key="LoginButton" TargetType="Button">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="FontFamily" Value="Orbitron"/>
+            <Setter Property="Background" Value="#7FFFD4"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="BorderThickness" Value="0"/>
+        </Style>
+        
+    </Page.Resources>
+    
+    <Grid>
+        
+        <Grid.Background>
+            <!--
+            <LinearGradientBrush  StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="DarkOrange" Offset="0"/>
+                <GradientStop  Color="BlueViolet" Offset="1"/>
+            </LinearGradientBrush>
+            -->
+            
+            <ImageBrush ImageSource="/src/resources/assets/images\LoginBG.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        
+        <Button Width="55" Height="45" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                Margin="10" Click = "SettingsButton" Background="Transparent" BorderBrush="Transparent" BorderThickness="1"> <!-- Background="Aqua" -->
+            <Image Stretch="UniformToFill" Width="45" Height="45" Source= "\src\resources\assets\images\SettingsIcon.png"/>
+        </Button>
+        
+        <Border Background="#66000000"
+                Padding="30"
+                CornerRadius="12"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+            
+            <StackPanel Width="260">
+                
+                <TextBlock Text="ORION LOGIN" Style="{StaticResource TitleText}" />
+                
+                <PasswordBox Name="PasswordField"
+                         Style="{StaticResource LoginTextBox}"
+                         Margin="0,0,0,15"
+                         BorderThickness="2"
+                         KeyDown="EnterInput"
+                         MinWidth="200"/>
+                
+                <Button Content="ACCESS SYSTEM"
+                        Style="{StaticResource LoginButton}"
+                        Click="Verify"
+                        Cursor="Hand"/>
+                
+                <TextBlock Name="PassError"
+                           Text="ACCESS DENIED"
+                           Height="35"
+                           FontSize="20"
+                           Foreground="Red"
+                           Visibility="Collapsed"
+                           HorizontalAlignment="Center"/>
+            </StackPanel>
+        
+        </Border>
+
+    </Grid>
+    
+</Page>
