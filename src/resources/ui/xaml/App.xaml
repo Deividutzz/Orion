@@ -4,6 +4,16 @@
              xmlns:local="clr-namespace:Orion.main.app.gui"
              StartupUri="/src/resources/ui/xaml/MainWindow.xaml">
     <Application.Resources>
-         
+        
+        <ResourceDictionary>
+            
+            <ResourceDictionary.MergedDictionaries>
+                
+                <ResourceDictionary Source="/src/resources/styles/Buttons.xaml"/>
+                
+            </ResourceDictionary.MergedDictionaries>
+            
+        </ResourceDictionary>
+        
     </Application.Resources>
 </Application>
